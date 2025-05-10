@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1746859598046,
+    "owner": 1746857315996,
+    "title": "abc",
+    "description": "example",
+    "videoFile": "http://res.cloudinary.com/dw7mnmfx4/image/upload/v1746859594/g36titctalrrme6qkom6.jpg",
+    "thumbnailFile": "http://res.cloudinary.com/dw7mnmfx4/image/upload/v1746859595/ooxscandxvgqnwiltecs.jpg",
+    "category": "comedy",
+    "genre": "all",
+    "version": "2",
+    "createdAt": "2025-05-10T06:46:38.046Z",
+    "approved": false
+  }
+]

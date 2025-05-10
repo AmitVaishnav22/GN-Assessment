@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1746857315996,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "$2b$10$SqIBlkn6w7bnrsTWmwtQH.XoXiHSTdNTOGkA4MO7vZAP3hH9JK2CG",
+    "role": "Artist",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTc0Njg1NzMxNTk5Niwicm9sZSI6IkFydGlzdCIsImlhdCI6MTc0Njg1ODk0NywiZXhwIjoxNzQ3NDYzNzQ3fQ.pb58KUxunZgvuPdGDrQL0O-fvV8tjLVwm3GhmQ01--M"
+  },
+  {
+    "id": 1746862100795,
+    "name": "John Doe1",
+    "email": "john@example2.com",
+    "password": "$2b$10$sqDoH7ozA5PZDHc.ra.WGeJp51f/mjnCZtw7552alRvpWDT97bPBO",
+    "role": "Admin",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTc0Njg2MjEwMDc5NSwicm9sZSI6IkFkbWluIiwiaWF0IjoxNzQ2ODY2ODQ3LCJleHAiOjE3NDc0NzE2NDd9.T0KLahuht6bXfY1B-0Ekjt7yaMJzYuq1qBhVpGF-kR4"
+  }
+]
