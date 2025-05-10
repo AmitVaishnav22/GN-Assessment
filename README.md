@@ -140,6 +140,8 @@ Used for interacting with local JSON files.
 
 MIT License
 
+API DOCUMENTATION : https://documenter.getpostman.com/view/39857030/2sB2j98p7e
+
 ---
 
 ## Author
