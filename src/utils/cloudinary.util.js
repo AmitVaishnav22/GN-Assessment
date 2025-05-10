@@ -14,7 +14,7 @@ const uploadOnCloudinary = async (localFilePath) => {
         const response = await cloudinary.uploader.upload(localFilePath, {
             resource_type: "auto"
         });
-        console.log("Cloudinary response:", response);
+        //console.log("Cloudinary response:", response);
         // Only delete if file exists
         if (fs.existsSync(localFilePath)) {
             fs.unlinkSync(localFilePath);
